@@ -1,0 +1,270 @@
+{
+  "e20f18eb1a7053f07b1d014cfaafa3c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66a901d97523daae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582557887527,
+        "stop" : 1582557890323,
+        "duration" : 2796
+      }
+    } ]
+  },
+  "b1cc9087d34e1c5ccbe76a867603ba24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94f7ee95495a8354",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#didomi-notice-agree-button\" because element wasn't found",
+      "time" : {
+        "start" : 1582556791890,
+        "stop" : 1582556801942,
+        "duration" : 10052
+      }
+    } ]
+  },
+  "f12639be4093e9b0cab696e2f115c45e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50eccdbce204618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555224599,
+        "stop" : 1582555230163,
+        "duration" : 5564
+      }
+    } ]
+  },
+  "e592de6896fb5ce94c20129985b0a1af" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaf434a86c1ca497",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555206415,
+        "stop" : 1582555208515,
+        "duration" : 2100
+      }
+    } ]
+  },
+  "fe657fcb44d894cc73824300a31ab68c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea3ce7bf6a726fc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555217786,
+        "stop" : 1582555224599,
+        "duration" : 6813
+      }
+    } ]
+  },
+  "c1fcb90a1ca2c6f1dbfa51aee67b67d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "291412eaadad4118",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555244515,
+        "stop" : 1582555246133,
+        "duration" : 1618
+      }
+    } ]
+  },
+  "8d38dad2072822011b166474e2a593d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79d747304bf9a528",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582557886505,
+        "stop" : 1582557887526,
+        "duration" : 1021
+      }
+    } ]
+  },
+  "7691cc0d84351f0d478ffeaa3beb0135" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d294d5dfb1f5de5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555212072,
+        "stop" : 1582555213884,
+        "duration" : 1812
+      }
+    } ]
+  },
+  "bd4f48974e3c364310b63ef280bf5235" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c163a1eabfc35d1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555214137,
+        "stop" : 1582555214435,
+        "duration" : 298
+      }
+    } ]
+  },
+  "4fb802eee42961aa44c0fcff85973c26" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29043b4344a9c0ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582557885098,
+        "stop" : 1582557886505,
+        "duration" : 1407
+      }
+    } ]
+  },
+  "bce065be6dc9361634fb49f8b99be76c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7dd050a356e76dd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555239031,
+        "stop" : 1582555241084,
+        "duration" : 2053
+      }
+    } ]
+  },
+  "420f680acca532cab4bc38b021c2fa9e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "529d42e49b955248",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555251875,
+        "stop" : 1582555252644,
+        "duration" : 769
+      }
+    } ]
+  },
+  "101c70126366400fcd31d498d44f9610" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6521221a698a594c",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Element <button name=\"login\" width=\"100%\" type=\"submit\" color=\"primary\" data-testid=\"loginButton\" class=\"Button__ButtonContainer-sc-3uaafx-0 bKwsRh\">...</button> is not clickable at point (191, 485). Other element would receive the click: <div id=\"didomi-popup\" class=\"didomi-notice-popup didomi-popup__backdrop didomi-popup-backdrop\">...</div>\n                  (Session info: chrome=80.0.3987.116)\n                  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.15.3 x86_64)",
+      "time" : {
+        "start" : 1582556581227,
+        "stop" : 1582556583400,
+        "duration" : 2173
+      }
+    } ]
+  },
+  "fbf37d50cfaeb0fa4af8702f4017cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3171b51f2260adb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582555233283,
+        "stop" : 1582555235768,
+        "duration" : 2485
+      }
+    } ]
+  }
+}
